@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: bisque;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: burlywood;
+  border-radius: 5px;
+}
+#day-1 {
+  background: url(_methode_times_prod_web_bin_f02a1220-3acf-403d-891e-fbfb99ad297c\\(
+        2\
+      ).jpg)
+    no-repeat center center/cover;
+}
+#day-2 {
+  background: url(image_processing20231218-2-aymy6b.jpg);
+}
